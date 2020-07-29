@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="dirwatch",
-    version="0.0.1",
+    version="0.1.0",
     author="Richard van der Hoff",
     author_email="python@richvdh.org",
     description="Watches a directory and runs a command when it is updated",
